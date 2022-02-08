@@ -1,3 +1,8 @@
+// this code is under surveillance so do not copy
+
+
+
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
